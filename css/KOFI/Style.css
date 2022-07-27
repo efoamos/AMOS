@@ -1,0 +1,74 @@
+/* 
+.two{
+  background-image: url(./my\ stile.jpg);
+  height: 500px;
+  color: rgb(111, 24, 24);
+  padding-top: 15rem;
+  margin: 0;
+}
+
+
+
+.two span{
+  background-color: gray;
+  color: white;
+}
+ */
+
+body
+{
+  margin: 0;
+}
+
+ .icons{
+  background-color: black;
+  padding: 5px;
+  display: flex;
+  color: white;
+  gap: 20px;
+}
+
+
+.icon{
+  margin-left: 65.2rem;
+  color: white;
+}
+
+
+.one{
+  border-width: 10px 20px 30px;
+  border-color: rgb(11, 108, 108);
+  margin: 0;
+  text-align: center;
+  color: black;
+  background-color: burlywood;
+  padding: 30px;
+}
+
+.one span{
+  background-color: black;
+  color: rgb(215, 203, 203);
+}
+
+.two{
+  background-image: url("./my\ stile.jpg");
+  background-size: 80rem;
+  background-repeat: no-repeat;
+  height: 18rem;
+  width: 78.8rem;
+  padding-top: 19rem;
+}
+
+.two h1{
+  margin-top: 150px;
+}
+
+.two span{
+  display: block;
+}
+
+.two p{
+  background-color: gray;
+  margin: 0;
+  width: 100px;
+}
